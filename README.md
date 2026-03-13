@@ -29,7 +29,7 @@ This is a showcase of projects created by members of the **AI US** community. Wh
 
 | Project 项目 | Description 描述 | Tools 工具 | Creator 创作者 |
 |---|---|---|---|
-| AI Daily Report Tool | AI-powered industry news digest / AI 行业日报工具 | — | [@zhou-yefei](https://github.com/zhou-yefei) |
+| AI Daily Report Tool | AI-powered industry news digest / AI 行业日报工具 | claude | [@zhou-yefei](https://github.com/zhou-yefei) |
 
 ### 🌐 Web Apps / 网页应用
 
