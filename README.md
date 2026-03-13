@@ -88,7 +88,7 @@ We'd love to feature your project! Here's how:
 ## 💜 Community / 社区
 
 - 🏠 [AI US GitHub](https://github.com/aius-community)
-- 💬 [Discord](https://discord.gg/YOUR_INVITE_LINK)
+- 💬 [Discord](https://discord.gg/jJysQSTQ9w)
 
 ---
 
