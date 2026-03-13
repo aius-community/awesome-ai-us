@@ -1,10 +1,10 @@
 <div align="center">
 
-# Awesome AI US 🌟
+# AI us 🌟
 
-**A curated collection of projects built by AI US community members**
+**A curated collection of projects built by AI us community members**
 
-**AI US 社区成员作品集**
+**AI us 社区成员作品集**
 
 [![Discord](https://img.shields.io/badge/Join%20Us-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/YOUR_INVITE_LINK)
 [![GitHub Org](https://img.shields.io/badge/Org-aius--community-181717?style=flat-square&logo=github)](https://github.com/aius-community)
